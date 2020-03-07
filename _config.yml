@@ -1,16 +1,16 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /avatar/Avatar.jpg
 # author name
-author: fi3ework
+author: Eric
 # signature
-signature: witness me
+signature: 折腾实在是有趣
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email:
+  github: //github.com/alwaystest
   # wechat and qq should be a path of qr-code image
-  wechat: /assets/example_qr.png
+  wechat:
   qq: 
   telegram: 
   weibo: 
@@ -30,29 +30,29 @@ social:
   rss: 
 # friends
 friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
+  friendA: 
+  friendB: 
   friendC: 
 about:
-  enable: true
+  enable: false
   image: '/intro/about-bg.jpg'
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title:  Eric's Studio
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: Eric's Studio
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: 保持好奇，日拱一卒。
 # site haeder image
-site_header_image: '/intro/index-bg.jpg'
+site_header_image:  'https://source.unsplash.com/random'
 # post haeder image
-post_header_image: '/intro/post-bg.jpg'
+post_header_image: 'https://source.unsplash.com/random'
 # 404 image
 _404_image: '/intro/404-bg.jpg'
 
@@ -75,10 +75,10 @@ comment:
   # Disqus  site: https://disqus.com/
   disqus_shortname: 
   # Gitment  site: https://github.com/imsun/gitment
-  gitment_owner: 
-  gitment_repo: 
-  gitment_client_id: 
-  gitment_client_secret: 
+  gitment_owner: 'alwaystest'
+  gitment_repo: 'Blog'
+  gitment_client_id: 'bbb32ccc472758516028'
+  gitment_client_secret: 'bc6b758182559bceacd7834c56b1c985ee4f040d'
   # Youyan  site: http://www.uyan.cc/
   youyan_uid: 
   # Valine  site: https://valine.js.org/
@@ -106,13 +106,13 @@ busuanzi_slug: 'PV: ${count} :)'
 # Baidu analytics
 baidu_analytics: 
 # Google analytics
-google_analytics: 
+google_analytics: 'UA-159910381-1'
 # CNZZ analytics
 CNZZ_analytics: 
 
 # ========== Others ========== #
 # favicon
-favicon: /assets/favicon.ico
+favicon:
 # truncate length of abstracts in index page (the default is 300, there will be no abstruct if you input 0)
 truncate_length: 
 # enable toc
@@ -127,4 +127,4 @@ about_intro_height: 50
 copyright:
   enable: true
   # https://creativecommons.org/
-  license: '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
+  license: '本文采用<a rel="license" href="https://creativecommons.org/licenses/by/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
