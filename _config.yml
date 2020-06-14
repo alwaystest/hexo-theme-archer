@@ -75,10 +75,10 @@ comment:
   # Disqus  site: https://disqus.com/
   disqus_shortname: 
   # Gitment  site: https://github.com/imsun/gitment
-  gitment_owner: 'alwaystest'
-  gitment_repo: 'Blog'
-  gitment_client_id: 'bbb32ccc472758516028'
-  gitment_client_secret: 'bc6b758182559bceacd7834c56b1c985ee4f040d'
+  gitment_owner:
+  gitment_repo:
+  gitment_client_id:
+  gitment_client_secret:
   # Youyan  site: http://www.uyan.cc/
   youyan_uid: 
   # Valine  site: https://valine.js.org/
@@ -86,11 +86,11 @@ comment:
   valine_appKey: 
   valine_placeHolder: 
   # gitalk site: https://github.com/gitalk/gitalk#options  
-  gitalk_client_id: 
-  gitalk_client_secret: 
-  gitalk_admin: 
-  gitalk_owner: 
-  gitalk_repo: 
+  gitalk_client_id: 'bbb32ccc472758516028'
+  gitalk_client_secret: 'bc6b758182559bceacd7834c56b1c985ee4f040d'
+  gitalk_admin: ['alwaystest']
+  gitalk_owner: 'alwaystest'
+  gitalk_repo: 'Comment'
   # utteranc site: https://utteranc.es/
   utteranc_repo:  
   utteranc_label: 
