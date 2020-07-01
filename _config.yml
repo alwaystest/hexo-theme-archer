@@ -82,8 +82,8 @@ comment:
   # Youyan  site: http://www.uyan.cc/
   youyan_uid: 
   # Valine  site: https://valine.js.org/
-  valine_appId: 
-  valine_appKey: 
+  valine_appId: 8dzEl4eY85FJNwQ9QdOfzhOj-MdYXbMMI
+  valine_appKey: vfg3sgB1BkXPHpw1NYfBFXYn
   valine_placeHolder: 
   # gitalk site: https://github.com/gitalk/gitalk#options  
   gitalk_client_id: 
