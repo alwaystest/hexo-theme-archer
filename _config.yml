@@ -82,8 +82,8 @@ comment:
   # Youyan  site: http://www.uyan.cc/
   youyan_uid: 
   # Valine  site: https://valine.js.org/
-  valine_appId: 8dzEl4eY85FJNwQ9QdOfzhOj-MdYXbMMI
-  valine_appKey: vfg3sgB1BkXPHpw1NYfBFXYn
+  valine_appId:
+  valine_appKey:
   valine_placeHolder: 
   # gitalk site: https://github.com/gitalk/gitalk#options  
   gitalk_client_id: 
@@ -100,9 +100,9 @@ comment:
 # enable Busuanzi analytics
 busuanzi: true
 # fill in pv or uv
-busuanzi_pv_or_uv: 'pv'
+busuanzi_pv_or_uv: 'uv'
 # custom analytic slogan, '${count}' is the analytic number, DO NOT modify it.
-busuanzi_slug: 'PV: ${count} :)'
+busuanzi_slug: 'UV: ${count} :)'
 # Baidu analytics
 baidu_analytics: 
 # Google analytics
